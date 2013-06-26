@@ -1,0 +1,27 @@
+PODS:
+  - AFNetworking (1.1.0)
+  - AKTabBarController (1.1.0)
+  - libextobjc/EXTKeyPathCoding (0.2.5):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTScope (0.2.5):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/RuntimeExtensions (0.2.5)
+  - Mantle (0.3):
+    - libextobjc/EXTKeyPathCoding
+    - libextobjc/EXTScope
+  - OHAttributedLabel (3.4.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 1.1.0)
+  - AKTabBarController
+  - Mantle (~> 0.2)
+  - OHAttributedLabel
+
+SPEC CHECKSUMS:
+  AFNetworking: 761a418233d280c1e0580bcb76ff9cb4c3073d17
+  AKTabBarController: 34443d5d028700dea1d00a6f275e8ef17fc947c2
+  libextobjc: 2cbc74caf8bdc74a86fdf24673f773c83424ea98
+  Mantle: 34f96a3ce02bd43eca7a86ab3a0e74a55e419454
+  OHAttributedLabel: 770332ef810ca15c9bd4a79f300ce620bc443e9d
+
+COCOAPODS: 0.19.1
